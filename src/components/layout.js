@@ -45,7 +45,6 @@ const Layout = ({ children }) => {
           marginTop: `30px`,
           padding: `20px`,
           paddingTop: `45px`,
-          width: `100%`,
         }}
       >
         © {new Date().getFullYear()}, Built with

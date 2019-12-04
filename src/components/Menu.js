@@ -16,15 +16,12 @@ const Menu = () => (
       }}
     >
       <li>
-        {""}
         <Link to="/">Home</Link>
       </li>
       <li>
-        {""}
         <Link to="page-2">About</Link>
       </li>
       <li>
-        {""}
         <Link to="/services">Services</Link>
       </li>
     </ul>
